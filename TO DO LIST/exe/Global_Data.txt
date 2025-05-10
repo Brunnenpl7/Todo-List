@@ -1,6 +1,6 @@
-gm_officecomplex
-python
-training
+
+
+
 
 
 
@@ -14,7 +14,6 @@ training
 
 ---
 o
-x
 o
 o
 o
@@ -24,7 +23,8 @@ o
 o
 o
 o
-x
-x
-x
-x
+o
+o
+o
+o
+o
